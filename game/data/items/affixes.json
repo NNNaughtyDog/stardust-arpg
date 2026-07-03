@@ -1,0 +1,74 @@
+[
+  {
+    "affix_id": "sharp",
+    "name": "锋利的",
+    "type": "prefix",
+    "stat": "attack",
+    "min_value": 2,
+    "max_value": 8,
+    "valid_slots": ["weapon"]
+  },
+  {
+    "affix_id": "sturdy",
+    "name": "坚韧的",
+    "type": "prefix",
+    "stat": "defense",
+    "min_value": 2,
+    "max_value": 10,
+    "valid_slots": ["helmet", "armor"]
+  },
+  {
+    "affix_id": "vitality",
+    "name": "生命的",
+    "type": "prefix",
+    "stat": "max_hp",
+    "min_value": 10,
+    "max_value": 40,
+    "valid_slots": ["helmet", "armor", "ring"]
+  },
+  {
+    "affix_id": "swift",
+    "name": "迅捷的",
+    "type": "prefix",
+    "stat": "move_speed_percent",
+    "min_value": 3,
+    "max_value": 8,
+    "valid_slots": ["boots", "ring"]
+  },
+  {
+    "affix_id": "brutal",
+    "name": "残暴的",
+    "type": "prefix",
+    "stat": "crit_damage_percent",
+    "min_value": 8,
+    "max_value": 25,
+    "valid_slots": ["weapon", "ring"]
+  },
+  {
+    "affix_id": "insight",
+    "name": "洞察之",
+    "type": "suffix",
+    "stat": "crit_rate_percent",
+    "min_value": 2,
+    "max_value": 8,
+    "valid_slots": ["weapon", "ring"]
+  },
+  {
+    "affix_id": "stardust",
+    "name": "星尘之",
+    "type": "suffix",
+    "stat": "stardust_damage_percent",
+    "min_value": 5,
+    "max_value": 18,
+    "valid_slots": ["weapon", "ring"]
+  },
+  {
+    "affix_id": "lifesteal",
+    "name": "汲取之",
+    "type": "suffix",
+    "stat": "life_on_kill",
+    "min_value": 2,
+    "max_value": 10,
+    "valid_slots": ["weapon", "ring"]
+  }
+]

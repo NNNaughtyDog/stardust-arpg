@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://isometric_dark_arpg_main"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Camera2D" type="Camera2D" parent="."]
+position = Vector2(0, 0)
+enabled = true
+zoom = Vector2(1, 1)
+
+[node name="PrototypeLabel" type="Label" parent="."]
+offset_left = 32.0
+offset_top = 32.0
+offset_right = 760.0
+offset_bottom = 96.0
+text = "Isometric Dark ARPG Prototype - scaffold ready"

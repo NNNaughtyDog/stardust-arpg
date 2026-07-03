@@ -1,0 +1,50 @@
+{
+  "common_wilds": {
+    "gold": {
+      "chance": 0.65,
+      "min": 1,
+      "max": 12
+    },
+    "equipment": {
+      "chance": 0.18,
+      "rarity_weights": {
+        "normal": 0.70,
+        "magic": 0.25,
+        "rare": 0.05,
+        "legendary": 0.0
+      }
+    }
+  },
+  "elite_wilds": {
+    "gold": {
+      "chance": 0.95,
+      "min": 8,
+      "max": 35
+    },
+    "equipment": {
+      "chance": 0.75,
+      "rarity_weights": {
+        "normal": 0.30,
+        "magic": 0.48,
+        "rare": 0.20,
+        "legendary": 0.02
+      }
+    }
+  },
+  "rift_boss": {
+    "gold": {
+      "chance": 1.0,
+      "min": 40,
+      "max": 120
+    },
+    "equipment": {
+      "chance": 1.0,
+      "rarity_weights": {
+        "normal": 0.0,
+        "magic": 0.35,
+        "rare": 0.55,
+        "legendary": 0.10
+      }
+    }
+  }
+}

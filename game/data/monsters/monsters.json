@@ -1,0 +1,72 @@
+[
+  {
+    "monster_id": "corrupted_crawler",
+    "name": "腐化爬虫",
+    "role": "fast_melee",
+    "level": 1,
+    "max_hp": 35,
+    "attack": 6,
+    "defense": 1,
+    "move_speed": 120,
+    "aggro_range": 220,
+    "attack_range": 28,
+    "attack_cooldown": 1.1,
+    "drop_table": "common_wilds"
+  },
+  {
+    "monster_id": "wasteland_raider",
+    "name": "荒野暴徒",
+    "role": "basic_melee",
+    "level": 2,
+    "max_hp": 60,
+    "attack": 9,
+    "defense": 3,
+    "move_speed": 90,
+    "aggro_range": 240,
+    "attack_range": 36,
+    "attack_cooldown": 1.4,
+    "drop_table": "common_wilds"
+  },
+  {
+    "monster_id": "stardust_marksman",
+    "name": "星尘射手",
+    "role": "ranged",
+    "level": 3,
+    "max_hp": 45,
+    "attack": 10,
+    "defense": 2,
+    "move_speed": 80,
+    "aggro_range": 320,
+    "attack_range": 220,
+    "attack_cooldown": 1.8,
+    "drop_table": "common_wilds"
+  },
+  {
+    "monster_id": "elite_mutant",
+    "name": "精英异化者",
+    "role": "elite",
+    "level": 5,
+    "max_hp": 180,
+    "attack": 18,
+    "defense": 8,
+    "move_speed": 75,
+    "aggro_range": 300,
+    "attack_range": 48,
+    "attack_cooldown": 1.7,
+    "drop_table": "elite_wilds"
+  },
+  {
+    "monster_id": "rift_boss",
+    "name": "裂隙 Boss",
+    "role": "boss",
+    "level": 8,
+    "max_hp": 600,
+    "attack": 32,
+    "defense": 15,
+    "move_speed": 60,
+    "aggro_range": 420,
+    "attack_range": 64,
+    "attack_cooldown": 2.2,
+    "drop_table": "rift_boss"
+  }
+]

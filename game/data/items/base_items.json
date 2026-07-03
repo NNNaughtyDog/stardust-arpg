@@ -1,0 +1,48 @@
+[
+  {
+    "item_id": "rusted_sword",
+    "name": "锈蚀短剑",
+    "slot": "weapon",
+    "level": 1,
+    "base_stats": {
+      "attack": 8
+    }
+  },
+  {
+    "item_id": "iron_axe",
+    "name": "铁斧",
+    "slot": "weapon",
+    "level": 2,
+    "base_stats": {
+      "attack": 12
+    }
+  },
+  {
+    "item_id": "worn_helmet",
+    "name": "磨损头盔",
+    "slot": "helmet",
+    "level": 1,
+    "base_stats": {
+      "defense": 3
+    }
+  },
+  {
+    "item_id": "patched_armor",
+    "name": "补丁皮甲",
+    "slot": "armor",
+    "level": 1,
+    "base_stats": {
+      "defense": 6,
+      "max_hp": 12
+    }
+  },
+  {
+    "item_id": "ash_ring",
+    "name": "灰烬戒指",
+    "slot": "ring",
+    "level": 1,
+    "base_stats": {
+      "max_hp": 8
+    }
+  }
+]
