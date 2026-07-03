@@ -1,11 +1,11 @@
 ; Engine configuration file.
-; This is a minimal Godot 4.x project scaffold for the isometric dark ARPG prototype.
+; This is a minimal Godot 4.x project scaffold for Stardust ARPG.
 
 config_version=5
 
 [application]
 
-config/name="Isometric Dark ARPG Prototype"
+config/name="Stardust ARPG"
 run/main_scene="res://scenes/main/Main.tscn"
 config/features=PackedStringArray("4.3")
 config/icon="res://icon.svg"
