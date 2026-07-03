@@ -5,7 +5,7 @@
 ## 打开方式
 
 1. 使用 Godot 4.x。
-2. 打开 `prototypes/isometric-dark-arpg/game/project.godot`。
+2. 打开 `game/project.godot`。
 3. 运行项目。
 4. 当前应进入 `scenes/main/Main.tscn`。
 
@@ -25,7 +25,7 @@
 
 ## 后续实现顺序
 
-请按 `../docs/06_codex_tasks.md` 执行：
+请按 `../docs/06_development_tasks.md` 执行：
 
 1. 初始化 Godot 原型工程
 2. 玩家点地移动
@@ -41,6 +41,5 @@
 ## 工程约束
 
 - 保持 Godot 工程和文档隔离在本目录下。
-- 不要污染主项目根目录。
 - 不要直接复刻任何现成游戏 IP 或素材。
 - 新增系统时同步更新 `docs/`。
