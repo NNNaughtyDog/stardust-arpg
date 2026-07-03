@@ -150,7 +150,7 @@ final_damage = round(crit_damage or reduced_damage)
 
 装备、词缀、怪物、技能、掉落表优先使用 JSON/CSV 或 Godot Resource 管理。
 
-建议第一版先用 JSON，方便 Codex 快速生成和修改。
+建议第一版先用 JSON，方便 AI 辅助开发和人工维护时快速生成、检查、修改。
 
 ## 存档
 
@@ -163,12 +163,12 @@ final_damage = round(crit_damage or reduced_damage)
 - 金币
 - 已解锁地图
 
-## Codex 开发要求
+## 开发执行要求
 
-Codex 每次实现功能时必须：
+每次实现功能时必须：
 
 1. 保持目录结构清晰。
 2. 不把所有代码堆进一个脚本。
 3. 新增系统时同步更新对应文档。
 4. 尽量用数据配置，不硬编码大量内容。
-5. 每次 PR 都写清楚测试方式。
+5. 每次 PR 或提交说明都写清楚测试方式。
