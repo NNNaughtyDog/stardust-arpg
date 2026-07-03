@@ -1,6 +1,6 @@
-# Isometric Dark ARPG Prototype
+# Stardust ARPG
 
-> 目标：创建一个“暗黑2精神内核”的原创 2D 等距视角 ARPG 原型项目，用于验证镜头语言、点地移动、刷怪掉落、装备词缀、技能成长和地牢循环。
+> 目标：创建一个原创 2D 等距视角暗黑奇幻 ARPG 原型项目，用于验证镜头语言、点地移动、刷怪掉落、装备词缀、技能成长和地牢循环。
 
 ## 定位
 
@@ -55,7 +55,7 @@
 ## 目录说明
 
 ```text
-prototypes/isometric-dark-arpg/
+stardust-arpg/
 ├─ README.md
 ├─ docs/
 │  ├─ 00_project_overview.md
@@ -64,7 +64,7 @@ prototypes/isometric-dark-arpg/
 │  ├─ 03_technical_architecture.md
 │  ├─ 04_art_bible.md
 │  ├─ 05_system_breakdown.md
-│  └─ 06_codex_tasks.md
+│  └─ 06_development_tasks.md
 └─ game/
    ├─ project.godot
    ├─ scenes/
@@ -74,4 +74,4 @@ prototypes/isometric-dark-arpg/
 
 ## 当前阶段
 
-当前阶段只做项目初始化和设计落地。后续由 Codex 按 `docs/06_codex_tasks.md` 逐步实现原型功能。
+当前阶段只做项目初始化和设计落地。后续按 `docs/06_development_tasks.md` 逐步实现原型功能。
